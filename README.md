@@ -3,7 +3,7 @@ Wordlists i didn't find
 
 Wordlistgen generates a wordlist from two input files, usually, Firstnames and lastnames wordlists.
 
-Output wordlist will have the most common ActiveDirectory name conventions.
+# Output wordlist will have the most common ActiveDirectory name conventions.
 
-Usage:
+# Usage:
   Wordlistgen.sh firstnames lastnames outputfile
