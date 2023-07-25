@@ -1,10 +1,10 @@
 # Wordlists
 Mostly wordlists i didn't find. Fine, i did it myself.
 
-# Wordlistgen.sh
+# ADNomicon.sh
 
-Generates a wordlist with the most common ActiveDirectory username conventions from two input wordlists. Usually, firstnames and lastnames.
+Generates wordlists with the most common AD user formats from a list of names and surnames.
 
 ## Usage:
-  Wordlistgen.sh firstnames lastnames outputfile
+  Wordlistgen.sh firstnames lastnames
 
