@@ -1,5 +1,4 @@
-# Wordlists
-Mostly wordlists i didn't find. Fine, i did it myself.
+# Active directory wordlist generator
 
 # ADNomicon.sh
 
